@@ -1,30 +1,30 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Carlos Espin
+description: My Universal Codec and More
+taglong: My Universal Codec and More
+tagshort: Universal Codec
+url: https://www.espin.xyz
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/cespin/espin.xyz
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  name: Carlos Espin
+  email: cespin@live.ca
+photo: /assets/webp/yo.webp
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  facebook: carlos.espin
+  github: cespin
+  instagram: charly8182
+  linkedin: espin
+  stackoverflow: 16654793/carlos-espin
+  twitter: cespinf
 
 # build settings
 
